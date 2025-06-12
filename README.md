@@ -29,7 +29,7 @@ Este proyecto es una pre-entrega para el curso de Full Stack con Node.js de Tale
 <!--URL:  
 ![Página Principal](https://github.com/D3M4rc0/proyecto-final-Ecommerce-MarcoCor/raw/main/caps/Pag-Completa.png)-->
 
-### Sección de Productos
+### Sección de Productos Desktop y Móvil 
 ![Sección de Productos](caps/Responsivo-1.png)  
 <!--URL:  
 ![Sección de Productos](https://github.com/D3M4rc0/proyecto-final-Ecommerce-MarcoCor/raw/main/caps/Responsivo-1.png)-->
