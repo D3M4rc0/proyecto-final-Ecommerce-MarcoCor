@@ -1,7 +1,7 @@
 # 🍽️ Restaurante Web - Pre-entrega
 
 ## 📝 Descripción del Proyecto
-Este proyecto es una pre-entrega para el curso de Full Stack con Node.js de Talento Tech. Consiste en una página web responsive para un restaurante, desarrollada con HTML y CSS, con planes futuros de implementación de JavaScript para funcionalidades interactivas.
+Este proyecto es una pre-entrega para el curso de Full Stack con Node.js de Talento Tech. Consiste en una página web responsive para un restaurante, desarrollada con HTML, CSS y JS, con planes futuros de implementación de JavaScript para funcionalidades interactivas extendidas.
 
 ## 🚀 Características Actuales
 - Diseño completamente responsive
