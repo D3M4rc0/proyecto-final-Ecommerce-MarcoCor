@@ -89,7 +89,7 @@ function showAlert(message, type = 'success') {
         position: fixed;
         top: 20px;
         right: 20px;
-        background: ${type === 'success' ? '#28a745' : '#dc3545'};
+        background: ${type === 'success' ? '#ff6f00' : '#dc3545'};
         color: white;
         padding: 15px 20px;
         border-radius: 5px;
@@ -102,12 +102,19 @@ function showAlert(message, type = 'success') {
     setTimeout(() => alert.remove(), 3000);
 }
 
-// Manejador del formulario
-document.querySelector('form').addEventListener('submit', (e) => {
-    e.preventDefault();
-    showAlert('¡Mensaje enviado con éxito!');
-    setTimeout(() => {
-        e.target.reset();
-    }, 500);
+
+const form = document.querySelector('form');
+
+// Evento para mostrar alerta y limpiar formulario al enviar
+form.addEventListener('submit', (e) => {
+    showAlert('¡Mensaje enviado con éxito!', 'success');
+    setTimeout(() => form.reset(), 500);
+
+    // NOTA: No usamos e.preventDefault() para que el formulario se envíe normalmente
+});
+
+// Limpia formulario cuando la página vuelve a mostrarse (botón atrás, recarga, etc)
+window.addEventListener('pageshow', () => {
+    form.reset();
 });
 
