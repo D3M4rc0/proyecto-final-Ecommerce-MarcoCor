@@ -23,14 +23,25 @@ Este proyecto es una pre-entrega para el curso de Full Stack con Node.js de Tale
 - Google Maps Embed API
 
 ## 📸 Capturas de Pantalla
+
 ### Página Principal
-[Insertar imagen de la página principal]
+![Página Principal](caps/Pag-Completa.png)  
+URL:  
+![Página Principal](https://github.com/D3M4rc0/proyecto-final-Ecommerce-MarcoCor/raw/main/caps/Pag-Completa.png)
 
 ### Sección de Productos
-[Insertar imagen de la sección de productos]
+![Sección de Productos](caps/Responsivo-1.png)  
+URL:  
+![Sección de Productos](https://github.com/D3M4rc0/proyecto-final-Ecommerce-MarcoCor/raw/main/caps/Responsivo-1.png)
 
 ### Formulario de Contacto
-[Insertar imagen del formulario de contacto]
+![Alerta Mensaje Enviado](caps/Alerta-Mensaje-enviado.png)  
+![Confirmación Formspree](caps/Confirmacion-Formspree.png)  
+
+URL:  
+![Alerta Mensaje Enviado](https://github.com/D3M4rc0/proyecto-final-Ecommerce-MarcoCor/raw/main/caps/Alerta-Mensaje-enviado.png)  
+![Confirmación Formspree](https://github.com/D3M4rc0/proyecto-final-Ecommerce-MarcoCor/raw/main/caps/Confirmacion-Formspree.png)
+
 
 ## 🎯 Objetivos del Proyecto
 1. Demostrar habilidades en maquetación HTML y CSS
