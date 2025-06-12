@@ -26,21 +26,21 @@ Este proyecto es una pre-entrega para el curso de Full Stack con Node.js de Tale
 
 ### Página Principal
 ![Página Principal](caps/Pag-Completa.png)  
-URL:  
-![Página Principal](https://github.com/D3M4rc0/proyecto-final-Ecommerce-MarcoCor/raw/main/caps/Pag-Completa.png)
+<!--URL:  
+![Página Principal](https://github.com/D3M4rc0/proyecto-final-Ecommerce-MarcoCor/raw/main/caps/Pag-Completa.png)-->
 
 ### Sección de Productos
 ![Sección de Productos](caps/Responsivo-1.png)  
-URL:  
-![Sección de Productos](https://github.com/D3M4rc0/proyecto-final-Ecommerce-MarcoCor/raw/main/caps/Responsivo-1.png)
+<!--URL:  
+![Sección de Productos](https://github.com/D3M4rc0/proyecto-final-Ecommerce-MarcoCor/raw/main/caps/Responsivo-1.png)-->
 
 ### Formulario de Contacto
 ![Alerta Mensaje Enviado](caps/Alerta-Mensaje-enviado.png)  
 ![Confirmación Formspree](caps/Confirmacion-Formspree.png)  
 
-URL:  
+<!--URL:  
 ![Alerta Mensaje Enviado](https://github.com/D3M4rc0/proyecto-final-Ecommerce-MarcoCor/raw/main/caps/Alerta-Mensaje-enviado.png)  
-![Confirmación Formspree](https://github.com/D3M4rc0/proyecto-final-Ecommerce-MarcoCor/raw/main/caps/Confirmacion-Formspree.png)
+![Confirmación Formspree](https://github.com/D3M4rc0/proyecto-final-Ecommerce-MarcoCor/raw/main/caps/Confirmacion-Formspree.png)-->
 
 
 ## 🎯 Objetivos del Proyecto
