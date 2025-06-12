@@ -36,6 +36,8 @@ Este proyecto es una pre-entrega para el curso de Full Stack con Node.js de Tale
 
 ### Formulario de Contacto
 ![Alerta Mensaje Enviado](caps/Alerta-Mensaje-enviado.png)  
+
+### Confirmación en Formspree
 ![Confirmación Formspree](caps/Confirmacion-Formspree.png)  
 
 <!--URL:  
