@@ -1,7 +1,7 @@
 # 🍽️ Restaurante Web - Pre-entrega
 
 ## 📝 Descripción del Proyecto
-Este proyecto es una pre-entrega para el curso de Full Stack con Node.js de Talento Tech. Consiste en una página web responsive para un restaurante, desarrollada con HTML y CSS, con planes futuros de implementación de JavaScript para funcionalidades interactivas.
+Este proyecto es una pre-entrega para el curso de Full Stack con Node.js. Consiste en una página web responsive para un restaurante, desarrollada con HTML, CSS y JS, con planes futuros de implementación de JavaScript para funcionalidades interactivas extendidas.
 
 ## 🚀 Características Actuales
 - Diseño completamente responsive
@@ -23,14 +23,27 @@ Este proyecto es una pre-entrega para el curso de Full Stack con Node.js de Tale
 - Google Maps Embed API
 
 ## 📸 Capturas de Pantalla
-### Página Principal
-[Insertar imagen de la página principal]
 
-### Sección de Productos
-[Insertar imagen de la sección de productos]
+### Página Principal
+![Página Principal](caps/Pag-Completa.png)  
+<!--URL:  
+![Página Principal](https://github.com/D3M4rc0/proyecto-final-Ecommerce-MarcoCor/raw/main/caps/Pag-Completa.png)-->
+
+### Sección de Productos Desktop y Móvil, responsive design 
+![Sección de Productos](caps/Responsivo-1.png)  
+<!--URL:  
+![Sección de Productos](https://github.com/D3M4rc0/proyecto-final-Ecommerce-MarcoCor/raw/main/caps/Responsivo-1.png)-->
 
 ### Formulario de Contacto
-[Insertar imagen del formulario de contacto]
+![Alerta Mensaje Enviado](caps/Alerta-Mensaje-enviado.png)  
+
+### Confirmación en Formspree
+![Confirmación Formspree](caps/Confirmacion-Formspree.png)  
+
+<!--URL:  
+![Alerta Mensaje Enviado](https://github.com/D3M4rc0/proyecto-final-Ecommerce-MarcoCor/raw/main/caps/Alerta-Mensaje-enviado.png)  
+![Confirmación Formspree](https://github.com/D3M4rc0/proyecto-final-Ecommerce-MarcoCor/raw/main/caps/Confirmacion-Formspree.png)-->
+
 
 ## 🎯 Objetivos del Proyecto
 1. Demostrar habilidades en maquetación HTML y CSS
