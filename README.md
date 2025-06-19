@@ -25,7 +25,7 @@ Este proyecto es una pre-entrega para el curso de Full Stack con Node.js. Consis
 ## 📸 Capturas de Pantalla
 
 ### Página Principal
-<!-![Página Principal](caps/Pag-Completa.png)  
+![Página Principal](caps/Pag-Completa.png)  
 <!--URL:  
 ![Página Principal](https://github.com/D3M4rc0/proyecto-final-Ecommerce-MarcoCor/raw/main/caps/Pag-Completa.png)-->
 
