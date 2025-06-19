@@ -54,4 +54,4 @@ Este proyecto es una pre-entrega para el curso de Full Stack con Node.js. Consis
 ## 💻 Instalación y Uso
 1. Clona este repositorio
 ```bash
-git clone [URL del repositorio]# proyecto-final-Ecommerce-MarcoCor
+git clone https://github.com/D3M4rc0/proyecto-final-Ecommerce-MarcoCor.git # proyecto-final-Ecommerce-MarcoCor```
